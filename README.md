@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 I am a ✨ _MERN Stack developer_ ✨ 
 
 Here are some ideas to get you started:
