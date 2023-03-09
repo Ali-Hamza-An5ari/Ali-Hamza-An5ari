@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-hamza-an5ari" alt="ali-hamza-an5ari" /></a> </p>
 
-- 🔭 I’m currently working on [konnect.im](konnect.im)
+- 🔭 I’m currently working on [konnect.im](https://konnect.im/))
 
 - 🌱 I’m currently learning **.NET Core, ASP .NET Core and Entity Framework**
 
