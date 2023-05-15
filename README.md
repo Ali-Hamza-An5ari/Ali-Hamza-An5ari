@@ -26,7 +26,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hamza-an5ari&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=ali-hamza-an5ari&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hamza-an5ari&layout=donut)" alt="ali-hamza-an5ari" /></p> 
+<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=ali-hamza-an5ari&show_icons=true&locale=en&layout=compact]" alt="ali-hamza-an5ari" /></p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali-hamza-an5ari&show_icons=true&locale=en" alt="ali-hamza-an5ari" /></p>
 
