@@ -30,5 +30,6 @@
 
 <!-- [![Ali Hamza's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ali-hamza-an5ari)](https://github.com/ali-hamza-an5ari/github-readme-stats) -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali-hamza-an5ari&show_icons=true&locale=en&theme=highcontrast" alt="ali-hamza-an5ari" /></p>
-![Ali Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-hamza-an5ari&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-hamza-an5ari&" alt="ali-hamza-an5ari" /></p>
