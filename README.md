@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for **a job**
 
-- 💬 Ask me about **.NET Core, ASP .NET, MSSQL, ReactJs and Angular**
+- 💬 Ask me about **.NET Core, ASP .NET Core, MSSQL, ReactJs and Angular**
 
 - 📫 How to reach me **alihamzaansari.dev@gmail.com**
 
