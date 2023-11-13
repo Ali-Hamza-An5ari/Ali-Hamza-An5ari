@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **.NET Core, ASP .NET Core, MSSQL, ReactJs and Angular**
 
-- 📫 How to reach me **alihamzaansari.dev@gmail.com**
+- 📫 How to reach me **alihamzaansari.dev@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
