@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on MyPeople, DayOnes, [konnect.im](https://konnect.im/), [ProLeagueNetwork](https://www.proleaguenetwork.com/), Boxmeal and [workwise](http://www.workw.com/)
 
 - 🌱 I’m currently learning **.NET Core, ASP .NET Core and Entity Framework**
-
+ 
 - 🤝 I’m looking for **a job**
 
 - 💬 Ask me about **.NET Core, ASP .NET Core, MSSQL, ReactJs and Angular**
