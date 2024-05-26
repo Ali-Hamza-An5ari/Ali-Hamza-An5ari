@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-hamza-an5ari" alt="ali-hamza-an5ari" /></a> </p>
 
 - 🔭 [Portfolio](https://alihamza-dev.netlify.app/)
-- 
+  
 - 🔭 I’m currently working on MyPeople, DayOnes, [konnect.im](https://konnect.im/), [ProLeagueNetwork](https://www.proleaguenetwork.com/), Boxmeal and [workwise](http://www.workw.com/)
 
 - 🌱 I’m currently learning **.NET Core, ASP .NET Core and Entity Framework**
