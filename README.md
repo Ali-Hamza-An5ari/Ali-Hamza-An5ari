@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Hamza Ansari</h1>
-<h3 align="center">A passionate .NET Core Full Stack developer from Pakistan</h3>
+<h3 align="center">A passionate .NET Core Full Stack developer from Pakistan</h3> 
    
 <p align="left"><img src="https://img.freepik.com/premium-vector/man-working-laptop-icon-illustration-work-from-home-mascot-cartoon-character_138676-1088.jpg?w=2000" alt=".NET Dev" align="right" width="180"> <img src="https://komarev.com/ghpvc/?username=ali-hamza-an5ari&label=Profile%20views&color=0e75b6&style=flat" alt="ali-hamza-an5ari" /> </p>  
 
