@@ -7,7 +7,7 @@
 
 - 🔭 [Portfolio](https://alihamza-dev.netlify.app/)
   
-- 🔭 I’m currently working on MyPeople, DayOnes, [Elmah](https://elmah.io/), [konnect.im](https://konnect.im/), [ProLeagueNetwork](https://www.proleaguenetwork.com/), Boxmeal and [workwise](http://www.workw.com/)
+- 🔭 I’m currently working on Buildot Iot SaaS (https://pre.buildot.machinesensiot.com/), CAFM SaaS(https://cafm.machinesensiot.org/), MyPeople, DayOnes, [Elmah](https://elmah.io/), [konnect.im](https://konnect.im/), [ProLeagueNetwork](https://www.proleaguenetwork.com/), Boxmeal and [workwise](http://www.workw.com/)
 
 - 🌱 I’m currently learning **.NET Core, ASP .NET Core and Entity Framework**
  
